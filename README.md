@@ -14,7 +14,7 @@ A web-based tool that analyzes news articles and determines their credibility us
 
 - **Frontend:** React, Vite, Tailwind CSS, Framer Motion
 - **Icons & UI:** Lucide React, clsx
-- **Language:** TypeScript (or JavaScript if converted)
+- **Language:** JavaScript
 - **Deployment:** Vercel
 
 ## 🧪 Getting Started
